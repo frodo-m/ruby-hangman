@@ -1,0 +1,17 @@
+--- !ruby/object:Game
+word: industries
+word_clues: i__ustries
+guessed:
+- "\e[35ma\e[0m"
+- "\e[35mb\e[0m"
+- "\e[32mi\e[0m"
+- "\e[35mo\e[0m"
+- "\e[32mu\e[0m"
+- "\e[32mt\e[0m"
+- "\e[32ms\e[0m"
+- "\e[35ml\e[0m"
+- "\e[35mf\e[0m"
+- "\e[35mc\e[0m"
+- "\e[32me\e[0m"
+- "\e[32mr\e[0m"
+guesses: 4

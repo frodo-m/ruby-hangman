@@ -1,0 +1,12 @@
+--- !ruby/object:Game
+word: burden
+word_clues: bu__e_
+guessed:
+- "\e[32me\e[0m"
+- "\e[35mi\e[0m"
+- "\e[35mo\e[0m"
+- "\e[32mu\e[0m"
+- "\e[35mt\e[0m"
+- "\e[35ms\e[0m"
+- "\e[32mb\e[0m"
+guesses: 6
